@@ -5,4 +5,4 @@ STMicroelectronics has very low cost, high performance, and rich functionality b
 
 The first generation STM32F4 (based on STM32F407V) is not supported in this repository.  The following boards are supported
 - STM32F401C Discovery, excellent board for robotics or flying things
-- STM32F428I Discovery, general purpose high performance board with local color display
+- STM32F429I Discovery, general purpose high performance board with local color display
